@@ -10,7 +10,7 @@ Este projeto é a evolução de um sistema inicial baseado em `ArrayList`, agora
 * Thymeleaf (Interface Web dinâmica)
 * Bootstrap 5 (Estilização e Responsividade)
 
- ## 🎨 Interface e Experiência do Usuário
+ ## Interface e Experiência do Usuário
 * Design Responsivo: O sistema se adapta a diferentes tamanhos de tela graças ao uso do Framework Bootstrap.
 
 ## Estrutura do Projeto
@@ -20,8 +20,3 @@ O projeto segue o padrão de camadas para melhor organização e manutenção:
 * `dao`: Camada de acesso a dados (Data Access Object).
 * `model`: Classes de entidade (Aluno, Curso, Matricula).
 * `factory`: Gerenciamento da conexão com o banco de dados.
-
-## Como Executar
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/Lucianogomeskt/SistemaDeMatriculas.git](https://github.com/Lucianogomeskt/SistemaDeMatriculas.git)
